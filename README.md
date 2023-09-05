@@ -8,7 +8,7 @@
 -->
 
 # Introduction to GitHub
-Welcome to the course of leaning Git hub 101. You should be fine as long as you follow the instructions and if you need any help contact me in my office hours.
+Welcome to the course of learning github-101. You should be fine as long as you follow the instructions. If you need any help contact me in my office hours that are posted on the sylabus.
 _Get started using GitHub in less than an hour._
 
 </header>
@@ -24,7 +24,7 @@ _Get started using GitHub in less than an hour._
 ## Step 1: Create a branch
 Below are the steps to creat a new branch
 _Welcome to "Introduction to GitHub"! :wave:_
-Introduction
+Introduction/ Defination
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
