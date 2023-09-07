@@ -1,5 +1,5 @@
 ---
-Slef Introduction
+Self Introduction
 By Richa Patel
 ---
 # Introduction
